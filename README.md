@@ -35,8 +35,8 @@ Follow these steps to set up and run the application locally:
 
 1. **Clone the Repository**
    ```bash
-   git clone <this repo url>
-   cd todos-app
+   git clone https://github.com/Shreykumar1/quadb.git
+   cd quadb
    ```
 
 2. **Install Dependencies**
