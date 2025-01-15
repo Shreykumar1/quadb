@@ -20,7 +20,7 @@ A modern, feature-rich task management application built with React and Context 
   
 ## Live Demo
 
-🚀 [Try the Application]()
+🚀 [Try the Application](https://quadb-tech-sk.netlify.app/)
 
 ## Setup Instructions
 
